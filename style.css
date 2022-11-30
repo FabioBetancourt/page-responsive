@@ -46,3 +46,8 @@ nav a:hover{
         padding: 10px 0px;
     }
 }
+
+.nombre-empresa{
+    color: white;
+    text-align: center;
+}
